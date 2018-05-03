@@ -64,3 +64,18 @@ stop();
 
 
 * **Pseudocode**-  pseudocode is part of a programming language that tells, in your own words, what each line of coding is doing
+
+# Extended Learning:
+
+The VEX robots use the coding language _RobotC_, which is essentially a strange blend of regular _c_ and _c++_. If you haven't coded at all or are pretty new to it, the programming language _C_ is very crucial to learn. With that language learned, not only is RobotC an absolute breeze, but languages like _javascript, c#, java, python_, and others are easily learned. Since the c compiler is available on almost every operating system, the code you write in c can be run on any device with a little bit of work. What's a _compiler_ you ask? It's a program that translates the code you write into the "low-level" instructions that the computer actually does. 
+
+Since I don't feel like writing a book for you to learn coding, I'll give you a few options. If you like reading, (and you probably won't mind reading this cause it's really informal) then here is a free book that teaches everything needed to get you up off the ground with understanding and writing C code:
+
+https://beej.us/guide/bgc/html/multi/intro.html
+
+If you like interactive websites, here's a guide to _C_ that walks you through the steps: 
+
+http://www.learn-c.org/
+
+Remember this when running into problems in coding: StackExchange is your new best friend! http://lmgtfy.com/?q=stackexchange
+You already know what google is and does, so you could also use that to find guides for c programming that fit your style if you don't like my options.
